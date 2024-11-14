@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nicola02nb
+- 👋 Hi, I’m Nicola
 - 👀 I’m interested in IT
 
-Checkout my [Gists](https://gist.github.com/nicola02nb)
+My [Gists](https://gist.github.com/nicola02nb)
 <!--- - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
