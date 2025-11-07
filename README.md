@@ -7,7 +7,7 @@ For support, open an issue or join my [Discord](https://discord.gg/hFuY8DfDGK) a
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** C, Java, C++, HTML, CSS, JavaScript, C#, Go
+- **Languages:** C, C++, C#, Java, HTML, CSS, JavaScript, PHP, Python, Go
 - **Frameworks:** React, Svelte, Electron, Wails
 - **Tools:** Git, VS Code, Visual Studio
 
